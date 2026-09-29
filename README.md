@@ -3,7 +3,7 @@ ESTUDIANTE: Benitez Agustina
 CARRERA: Recursos Digitales  
 TEMA: Evolución de las herramientas y tecnologías Front End y Back End y cambios producidos por la incorporación de Inteligencia Artificial como soporte para el desarrollo web durante 2021-2025.
 
-# Sitio web: [[El desarrollo web cambió de capa](https://benitez-proyecto1.netlify.app)]
+# Sitio web: [[El Desarrollo Web Cambió de Capa](https://benitez-proyecto1.netlify.app)]
 
 # Sobre el proyecto:
 Este proyecto consiste en investigar cómo fueron evolucionando las herramientas y tecnologías utilizadas en el desarrollo web durante el período 2021-2025.
